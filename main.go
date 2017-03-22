@@ -5,7 +5,6 @@ import (
 	"net/http"
 	"net/http/httputil"
 	"strings"
-	"net"
 	"golang.org/x/crypto/acme/autocert"
 	"crypto/tls"
 	"fmt"
